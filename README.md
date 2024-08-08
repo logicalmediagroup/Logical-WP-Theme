@@ -20,8 +20,8 @@ A lightweight and skeletal WordPress boilerplate theme for HTML5 and beyond. The
 
 Clone the barebones repositories into your WordPress /wp-content/themes/ directory:
 
-    git clone https://github.com/benchmarkstudios/barebones
-    cd barebones
+    git clone https://github.com/logicalmediagroup/Logical-WP-Theme
+    cd Logical-WP-Theme
 
 ### Using Laravel Mix
 
