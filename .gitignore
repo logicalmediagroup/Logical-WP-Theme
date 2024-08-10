@@ -7,3 +7,4 @@ package-lock.json
 *.map
 **/*.map
 yarn.lock
+js/scripts.min.js.LICENSE.txt
